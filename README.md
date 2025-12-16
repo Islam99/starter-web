@@ -1,8 +1,10 @@
-\#Starter Web Project
+\# Starter Web Project
 
-\##Introudction
+\## Introudction
 
-\##Purpose
+\## Purpose
 
-\##How to Contribute
+\## How to Contribute
+
+\## Directory
 
