@@ -12,7 +12,7 @@ this has a learning purpose
 
 \## How to Contribute
 
-do not do anything
+make a fork and make a pull request
 
 \## Directory
 
